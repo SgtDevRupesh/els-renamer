@@ -31,10 +31,6 @@ I believe this script will not only streamline my own gameplay experience but al
 ### Installation
 
 1. Clone the repository:
-   ```
-   git clone https://github.com/your-username/els-renamer.git
-   cd els-renamer
-   ```
 
 2. Rename the directory paths (if needed)
 
