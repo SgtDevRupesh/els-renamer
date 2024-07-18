@@ -26,6 +26,7 @@ I believe this script will not only streamline my own gameplay experience but al
 
 - Python 3 installed.
 - Please make sure you have renamed the directory location in the script.
+- ALWAYS make a backup of your pack_default or whichever folder you are using for the ELS-xml files. I won't be responsible if you don't read the manual/readme properly.
 
 ### Installation
 
