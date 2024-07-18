@@ -40,6 +40,10 @@ I believe this script will not only streamline my own gameplay experience but al
 
 3. Rename the log_file_path (if needed)
 
+### Some important references!
+
+1. https://www.lcpdfr.com/downloads/gta5mods/misc/33460-updated-siren-hashes-for-els-2021/
+
 
 
 ### Configuration
