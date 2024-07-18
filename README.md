@@ -30,7 +30,7 @@ I believe this script will not only streamline my own gameplay experience but al
 
 ### Installation
 
-1. Clone the repository:
+1. Clone the repository
 
 2. Rename the directory paths (if needed)
 
